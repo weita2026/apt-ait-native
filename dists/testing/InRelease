@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: AIT Native
+Label: AIT Native
+Suite: testing
+Codename: testing
+Date: Tue, 11 Aug 2026 22:33:39 +0000
+Architectures: amd64 arm64
+Components: main
+Description: Signed AIT Native release candidate repository
+MD5Sum:
+ b33bbba34186dd803652ee309ca2d73e             1254 main/binary-amd64/Packages
+ 0f11a7b7c2f9f7a89dfab099ea389c46              599 main/binary-amd64/Packages.gz
+ ac64c7aa73e3885e8f2fdfc9feedbf15             1254 main/binary-arm64/Packages
+ aeda0e93119f5756cd2af59a617a7848              598 main/binary-arm64/Packages.gz
+SHA1:
+ c30d08d0628878aa9ed672f8562faee61e7580c0             1254 main/binary-amd64/Packages
+ 760b32e16e062b621a1cc4ddab8df693cdff7190              599 main/binary-amd64/Packages.gz
+ ab2aeb1e0d45802e37c1fea3a7e22624314bebb7             1254 main/binary-arm64/Packages
+ 79b6c855e61fe9c937bff429aea1d9b524795255              598 main/binary-arm64/Packages.gz
+SHA256:
+ c2198dc7973ffe6c26961cdb7972f9885bda793cdf2da5de0db78ea97073460f             1254 main/binary-amd64/Packages
+ a2f057cc9ebd504e9d258921ad3631f5fa103f984b308a912b37772ce3a29b08              599 main/binary-amd64/Packages.gz
+ 71e37072600fe1ffb774579869c6a98bc2ea07ba6e607e7514bd9507d3f74a74             1254 main/binary-arm64/Packages
+ ce7cef064329fb119461f9fdce9a04f1c86fe82648cccae240e6a20b065ed1e6              598 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEE86Q+UatzrVgK3kNjTYSxa6iLyb0FAmp8YjYACgkQTYSxa6iL
+yb0Sbwv/YnBkZi8amaX90Ox6+bWuI+Nf8QJCQYcivIi/GCmakafYPSqBU2uJ5PFU
+TBgPWA7iXvVgbw4N653qOeLrNH/hh05/Nyg9473poeHpXTj17ZfckUJL5HPrHsut
+MXYdyd5ozYPiSJBlxOe3BTFFYjyt1N3MZOJE7xqOZRCGzSe0GxM+XGUsElBT5Z2W
+hPy3qbKh//5Lh2t5oSbBQTeyGkdLEzD9kNi1NN2ijMAKtFxdu0vND+Pg+3v2UXUI
+uDTgZjA3oBbsTQhJt7TNJREYSQONwYRljeoXea3puAfA9LMes0yTtnDTusQSljy8
+DAdzB7dwwfsqw8gMG5WHB1JSZ/uLZDDzBNYfTY5JSe70/wssy+cGHYq3mB55TWk0
+t03QFO9ECttK5kPjVgDMS3YoKmrCjtwNk5bQg7m+rdqF08sPlNMVJcSxqdzg/uyF
+ecBZqShD7rNYJa3kZXen/QffmZp0HMCHrQb6yIU/WDzIkhIH47+VhdPHQinjSYuV
+dNyFpEQ+
+=i6cu
+-----END PGP SIGNATURE-----
