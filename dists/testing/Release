@@ -2,22 +2,22 @@ Origin: AIT Native
 Label: AIT Native
 Suite: testing
 Codename: testing
-Date: Thu, 13 Aug 2026 11:58:48 +0000
+Date: Fri, 14 Aug 2026 01:54:16 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Signed AIT Native release candidate repository
 MD5Sum:
- 21d7a01eee67099b8cdd47b13bfb40f3             3762 main/binary-amd64/Packages
- 8e42fd9090caa51a464232dd7afb87da             1041 main/binary-amd64/Packages.gz
- bab88d262d1c9eb5bf5e518a0c4e6490             3762 main/binary-arm64/Packages
- 75d43a924ab2c7e46fa2e19e3eba6da0             1035 main/binary-arm64/Packages.gz
+ dbd2e638313cbf3ca130ea0c7199c127             5016 main/binary-amd64/Packages
+ af48edaccc65a4e0abfd51bb77cc17f6             1249 main/binary-amd64/Packages.gz
+ 4c332fdcbdf98deafc7c8abe1effb9dc             5016 main/binary-arm64/Packages
+ 44d1a9b2db5847930cf8c728b3430e2a             1250 main/binary-arm64/Packages.gz
 SHA1:
- 291894d00b9e7f12e846606ab084cd8c9e881a12             3762 main/binary-amd64/Packages
- 0171aba258e1ff635686adcb540564b9e5df3ec9             1041 main/binary-amd64/Packages.gz
- 58a30e702ec991127b45a163cf28302c615b0186             3762 main/binary-arm64/Packages
- 02fb106a3b1b1c8235ccd41bdf9ad93ff2442e9e             1035 main/binary-arm64/Packages.gz
+ dd158a19916b90de1de530b5d1240bbe29fdf8d1             5016 main/binary-amd64/Packages
+ 2a57f7417f0b3e5b56591e10492f71c141e709d9             1249 main/binary-amd64/Packages.gz
+ 5168cb76d7f3c6776fdb2c9197a7788552fac0e1             5016 main/binary-arm64/Packages
+ ffd94fcf0e0fc5bcdaaaeecafe0b007d07ca4bf7             1250 main/binary-arm64/Packages.gz
 SHA256:
- 72d1a786e52303517adebe14b5dd5bd0c1927c80774503b7cd9b4967d4927368             3762 main/binary-amd64/Packages
- 332dce6ed800af829edcca0f17b37552bb37d1a3af84b76d0ace834f6a0d06dd             1041 main/binary-amd64/Packages.gz
- 6d4faa66d207153a02a79a80b74839c696353ddc9b777d72a9707ce49265e75c             3762 main/binary-arm64/Packages
- aae8e98a690612979e795b07a214d19d468ded044c2085034629fb147c1ad6a5             1035 main/binary-arm64/Packages.gz
+ 9edee99672a00a719dd1fb84f8827ec305be7f266238e3e3e50504e9fdbd58ae             5016 main/binary-amd64/Packages
+ 7ef2225794ba6aee070e929079a0306f0390d6533ae4a9ab7a66892e7086e8ca             1249 main/binary-amd64/Packages.gz
+ b89b3c58e45625473ea5af02960d34302c902d07a2c8177f2b6bae570538be1b             5016 main/binary-arm64/Packages
+ f3b9f3e82c53b721b7b534e5b5c69af71aca69b9a44470a245cf0731ccd3fb4d             1250 main/binary-arm64/Packages.gz

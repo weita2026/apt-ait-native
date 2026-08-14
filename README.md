@@ -1,6 +1,6 @@
 # AIT Native apt repository
 
-Exact RC route: `testing`; signing fingerprint:
+Exact rc route: `testing`; signing fingerprint:
 `F3A43E51AB73AD580ADE43634D84B16BA88BC9BD`.
 
 ```sh
