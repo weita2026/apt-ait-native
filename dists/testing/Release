@@ -2,22 +2,22 @@ Origin: AIT Native
 Label: AIT Native
 Suite: testing
 Codename: testing
-Date: Mon, 17 Aug 2026 03:15:52 +0000
+Date: Mon, 17 Aug 2026 09:41:50 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Signed AIT Native release candidate repository
 MD5Sum:
- 066d8d41929c9f352255f5628f51a834             7524 main/binary-amd64/Packages
- aa56dc077f6b79b2a2bd0b8509528e1d             1678 main/binary-amd64/Packages.gz
- e6513f527e0f4eabed08a7db947d5df1             7524 main/binary-arm64/Packages
- 0d6dcdcc982b5af6233799d3b6b0d94a             1671 main/binary-arm64/Packages.gz
+ a6c1b92a46d61e09be4a1836f8d4e324             8778 main/binary-amd64/Packages
+ 0055ffb404d9b583c1c78928bea4d350             1883 main/binary-amd64/Packages.gz
+ 1c804c7eb94de0c8b31fdd2e553ffa0b             8778 main/binary-arm64/Packages
+ 292d75ad51684cf3323b339a6dff3ad1             1877 main/binary-arm64/Packages.gz
 SHA1:
- df6f8710d206a719caea484c533ff9d69131e650             7524 main/binary-amd64/Packages
- 2ede111176328069b16c2d32a6f3cb3e77e007ee             1678 main/binary-amd64/Packages.gz
- 83d289e74d21edb6bafcf354e3c7e7395e4114a6             7524 main/binary-arm64/Packages
- b20db868365951607e22b627b9cd7ba12c8613b2             1671 main/binary-arm64/Packages.gz
+ 535dfc99a87810e8fa9fcd037e771fb742206722             8778 main/binary-amd64/Packages
+ 25499d125e39c8c1dce050a99f5289caf5d9a301             1883 main/binary-amd64/Packages.gz
+ 688876c0b53f23559df13218d03cb7ce0ac9f2cf             8778 main/binary-arm64/Packages
+ 73f1ce72e34907634765530a01c3fc2ffa1d8a32             1877 main/binary-arm64/Packages.gz
 SHA256:
- 56c4204c890c8cdf44fc69210143462456aec2fdebc00caf51329b8a382237db             7524 main/binary-amd64/Packages
- 4d4ea5571c8911317348f9ad2bbfd0b6eae463b461701f3272d99aea5ad82529             1678 main/binary-amd64/Packages.gz
- 340a33587fd5915e5fe2f4f5c471314e4433fa234976402bf204a92be049ae69             7524 main/binary-arm64/Packages
- 64809152349af747af3e8cd5fa31e2f57f55f7dec7b622dd87907afffa2dcd50             1671 main/binary-arm64/Packages.gz
+ 45c6e17da5dacf617de560b92ede211130ac3d33200a280e6dd97d48d60bb193             8778 main/binary-amd64/Packages
+ 0d1dd8de067dc07f987c58f35339493e1347c2ece2e2b0046002c80cce708fab             1883 main/binary-amd64/Packages.gz
+ ee95881caf7a1338dd47cd95c4f8720443f1e33f6e13202f5fd522c354fee2f1             8778 main/binary-arm64/Packages
+ f82d2a4860c238eff36ed60ede50ff9419ee4addc72ea2d9789cdf7b84ec5817             1877 main/binary-arm64/Packages.gz
