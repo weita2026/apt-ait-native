@@ -83,6 +83,23 @@ Homepage: https://github.com/weita2026/ait-native
 Description: Language-neutral native AIT CLI and inactive self-hosted server
  Built from an immutable AIT family dossier without starting services.
 
+Package: ait-native
+Version: 1.0.0~rc.8
+Architecture: arm64
+Maintainer: AIT maintainers <weita2026@users.noreply.github.com>
+Installed-Size: 33816
+Depends: libc6 (>= 2.28)
+Filename: pool/main/a/ait-native/ait-native_1.0.0~rc.8_arm64.deb
+Size: 12973338
+MD5sum: c1aa77fd8c059e50a8835697124df4be
+SHA1: 82b6dc55cefe360861e047584dd3cb40f89a6b4f
+SHA256: 742f148c8d2ef3ed811b235e2897ee555735422de806fd1d281c7b8a08ae4b8e
+Section: devel
+Priority: optional
+Homepage: https://github.com/weita2026/ait-native
+Description: Language-neutral native AIT CLI and inactive self-hosted server
+ Built from an immutable AIT family dossier without starting services.
+
 Package: ait-runner
 Version: 1.0.0~rc.2
 Architecture: arm64
@@ -162,6 +179,23 @@ Size: 2460516
 MD5sum: d95613448a42d249f32baaadc272e88d
 SHA1: 54a3f3b4f143f136a2ae30d4cc3b21097f7345f9
 SHA256: 3df58a9394f2bb60cee7ee0ae9ab31955b7ca41d3c024674d9349641f6450bf5
+Section: devel
+Priority: optional
+Homepage: https://github.com/weita2026/ait-native
+Description: Native AIT execution runner
+ Built from an immutable AIT family dossier without starting services.
+
+Package: ait-runner
+Version: 1.0.0~rc.8
+Architecture: arm64
+Maintainer: AIT maintainers <weita2026@users.noreply.github.com>
+Installed-Size: 5485
+Depends: libc6 (>= 2.28)
+Filename: pool/main/a/ait-runner/ait-runner_1.0.0~rc.8_arm64.deb
+Size: 2456932
+MD5sum: 64b8b3888c252e12e1938693570bd95c
+SHA1: 4973f5ee5c90d9e6c9bdd3939d932977593874f2
+SHA256: 6eb5b0cac58e4bdf98021060ebb2ce0f2140f5977600a4e7fe6aefae616f79b1
 Section: devel
 Priority: optional
 Homepage: https://github.com/weita2026/ait-native

@@ -2,22 +2,22 @@ Origin: AIT Native
 Label: AIT Native
 Suite: testing
 Codename: testing
-Date: Fri, 14 Aug 2026 19:13:59 +0000
+Date: Mon, 17 Aug 2026 03:15:52 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Signed AIT Native release candidate repository
 MD5Sum:
- 54bbf60a99bfe494e0608343ea9f5116             6270 main/binary-amd64/Packages
- 16ee014979c9cb690636e03b595c01f3             1462 main/binary-amd64/Packages.gz
- d9bf0837f48625aedf6c184c50775ba7             6270 main/binary-arm64/Packages
- 0076092a61cd30f961eef17bf4f84615             1462 main/binary-arm64/Packages.gz
+ 066d8d41929c9f352255f5628f51a834             7524 main/binary-amd64/Packages
+ aa56dc077f6b79b2a2bd0b8509528e1d             1678 main/binary-amd64/Packages.gz
+ e6513f527e0f4eabed08a7db947d5df1             7524 main/binary-arm64/Packages
+ 0d6dcdcc982b5af6233799d3b6b0d94a             1671 main/binary-arm64/Packages.gz
 SHA1:
- 58e4fd9b3d7ec097119356a818730292157091ef             6270 main/binary-amd64/Packages
- fd661557e1a26320de2916fb95e983af70dd7d56             1462 main/binary-amd64/Packages.gz
- 05a004a247e8587c3b766841cf4f2847a1e79877             6270 main/binary-arm64/Packages
- 6ac4f22f551a731bc3d17baf9d0738883db01cf4             1462 main/binary-arm64/Packages.gz
+ df6f8710d206a719caea484c533ff9d69131e650             7524 main/binary-amd64/Packages
+ 2ede111176328069b16c2d32a6f3cb3e77e007ee             1678 main/binary-amd64/Packages.gz
+ 83d289e74d21edb6bafcf354e3c7e7395e4114a6             7524 main/binary-arm64/Packages
+ b20db868365951607e22b627b9cd7ba12c8613b2             1671 main/binary-arm64/Packages.gz
 SHA256:
- cf91bc06552453fae0e23510cc1cbcf95217899f3e064c1a26f4425ae26bb5fc             6270 main/binary-amd64/Packages
- 925d3b1001ed0e15d8bfa1dafd6cbf455708e232122ec9a41076be5ce6e41986             1462 main/binary-amd64/Packages.gz
- ed760da3d9e93191447602e12d57a92815f9c924dc45234f9371543f9907564d             6270 main/binary-arm64/Packages
- 74709d229f0448c9ba4fbd51a0b8a4a4086d067f38e03f40b35e66a4e5e3ba37             1462 main/binary-arm64/Packages.gz
+ 56c4204c890c8cdf44fc69210143462456aec2fdebc00caf51329b8a382237db             7524 main/binary-amd64/Packages
+ 4d4ea5571c8911317348f9ad2bbfd0b6eae463b461701f3272d99aea5ad82529             1678 main/binary-amd64/Packages.gz
+ 340a33587fd5915e5fe2f4f5c471314e4433fa234976402bf204a92be049ae69             7524 main/binary-arm64/Packages
+ 64809152349af747af3e8cd5fa31e2f57f55f7dec7b622dd87907afffa2dcd50             1671 main/binary-arm64/Packages.gz
