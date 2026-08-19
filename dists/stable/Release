@@ -1,0 +1,23 @@
+Origin: AIT Native
+Label: AIT Native
+Suite: stable
+Codename: stable
+Date: Tue, 18 Aug 2026 14:59:34 +0000
+Architectures: amd64 arm64
+Components: main
+Description: Signed AIT Native release candidate repository
+MD5Sum:
+ b81fefd6e582f129b416ef7d3709070a            11270 main/binary-amd64/Packages
+ 65c6e0ab5db5f1f083be13c91ba3c5f5             2296 main/binary-amd64/Packages.gz
+ 648596c8b39ff174c3dabdfe1d75f907            11270 main/binary-arm64/Packages
+ e27212046c76130e596d1188895b23aa             2296 main/binary-arm64/Packages.gz
+SHA1:
+ 63b25c8c742244702b7b3f15ee29f8b03ddc8a4d            11270 main/binary-amd64/Packages
+ 9eac6189a9eb77afa6034a4ce2470f89b5e711a2             2296 main/binary-amd64/Packages.gz
+ d88dc4308b1137d6d4a7aeefbd3235e7cfd4e9fd            11270 main/binary-arm64/Packages
+ 69086d6245fe3d942a5d5ce6b5c36c39c80303f8             2296 main/binary-arm64/Packages.gz
+SHA256:
+ d20bbc13b37c446d4a9e10308b570d9beba7a5b4d203b9891e5b5d5ebbfa62f2            11270 main/binary-amd64/Packages
+ e807aa0fa53bf113d810ea39bf070c546aead858c684a94fcbee7c0dabbd27b5             2296 main/binary-amd64/Packages.gz
+ 79c249482462315a76a5094dbb3aac0c792960bfeeea1ef3b4010a9886f60602            11270 main/binary-arm64/Packages
+ 5c54c10a802d431c0d423e344ed9ee29b52b9cc43b1660022cb0cb7947cff195             2296 main/binary-arm64/Packages.gz
