@@ -5,36 +5,36 @@ Origin: AIT Native
 Label: AIT Native
 Suite: stable
 Codename: stable
-Date: Thu, 27 Aug 2026 18:51:04 +0000
+Date: Wed, 02 Sep 2026 01:17:44 +0000
 Architectures: amd64 arm64
 Components: main
 Description: Signed AIT Native release candidate repository
 MD5Sum:
- ab32bf83e4a19bbd9cc7c9460b1336c1            13738 main/binary-amd64/Packages
- 3b66e63f89d887409bc0534a66c6b70f             2720 main/binary-amd64/Packages.gz
- 95352c5fb3bd28e25522498e6cd9d732            13738 main/binary-arm64/Packages
- 69801bbf8bf33b7aef8e1f855913b1ae             2716 main/binary-arm64/Packages.gz
+ be9714aff6addf2531cdc8d2b4fd924d            15098 main/binary-amd64/Packages
+ 572ee0c14e4167b26858ce80f8f09eed             3026 main/binary-amd64/Packages.gz
+ 9f44bd8f889bcd096729571d4e914851            15098 main/binary-arm64/Packages
+ f70d8a5f757fdf781aa3940cb06c6f1e             3020 main/binary-arm64/Packages.gz
 SHA1:
- ca3a4b4e79417387df275fcc69e42f774112d455            13738 main/binary-amd64/Packages
- bf07f8ca2c60a633ecb0b49ce07e88718a8bcd46             2720 main/binary-amd64/Packages.gz
- eee056be590f99f88296ec262c232e64c6f89b84            13738 main/binary-arm64/Packages
- e96e5a247485c879c287b0433261422343b6dbb2             2716 main/binary-arm64/Packages.gz
+ b18abfcffcb2b9b9a02b5119e2aa36a87c3e80f9            15098 main/binary-amd64/Packages
+ a106b4161e7b0a3b62bb7c8765dcdb49f5489ea6             3026 main/binary-amd64/Packages.gz
+ cd9bcdf79e7324e0f8fab53f6d12e8048c2e4173            15098 main/binary-arm64/Packages
+ 65a551b1f35c170dc2d7edf83fcc29cecee3a5c6             3020 main/binary-arm64/Packages.gz
 SHA256:
- 13652655c46b8baf3edbcce7df20c0a896f8c837e016f7c56c96bdfd5a96e8b1            13738 main/binary-amd64/Packages
- d5afbfe90a273f6536d3960bc72d3d2cb60b5e15ce8b1bbb4ce3240e61565599             2720 main/binary-amd64/Packages.gz
- 8969bf08b54b33e2093085c4d51132dbae7c325050cf15fcfe904a669772b603            13738 main/binary-arm64/Packages
- 6b6d19528a62c32b52593872813f1b9aa1ccc6c285b978edc3861e93f3585d97             2716 main/binary-arm64/Packages.gz
+ 9893f133d5ef0dadc0d12e8daf13c8b2080454a689b3cbe216cd0be96cd17901            15098 main/binary-amd64/Packages
+ f2572e347d77db9937d198c01a8e8dcb5ed5cc245bb222c3db954bc4acf00126             3026 main/binary-amd64/Packages.gz
+ f5786a0845c811ce1b2d416363c140fa26815e90e7adb3e041d004ca799a0151            15098 main/binary-arm64/Packages
+ 94a0e1ef99adb6d9517b9108dcc4ebc526a3409e0543fcddb046c34fcee7b6e8             3020 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCAAdFiEE86Q+UatzrVgK3kNjTYSxa6iLyb0FAmqQxS4ACgkQTYSxa6iL
-yb04Ugv+MW7gC8G7aVXVaI/TPJbFYwyoW+3vuIRe31rtDos7jPazAgxJLaM5ZARl
-ihM7G1GBIktsgoh07MWqGqDROsC1ApWmmJeSyBIAtVn6IsPx32loFrM5/RqpVqgk
-G6kh6jIlSNL3KCjm6izC8P72nvBr2PMJIXdXTlQy2H7MS3fcdhuTAdTW4EKXUw2B
-3ihIquVAoaGxM2TSqwkMPkgMgsSqhGuCxGjCd7qJnBLNgHnSvBnev5AIkDfCCnUk
-FNBc+WHN7S/dTU+9NXz/FjcFCZfUGiVUf7GUe79C1Sne1BzORiP+FlrXnicVGFq7
-xqpyjMzCfWun7n98zB375R+ClfWvrUtFltgd5nWmm2rLBjGw/cglQ6e4QGezwRtM
-njESQGZt57qoAuFQD14ePMThL8e6dHWsKFjAIaPQK7u/SEsnZOVT3HmX9O+Z/r0d
-sK6BnO6HEoplwVwlamhJ4sJ8CLPwnOOzU/sXxKG9H1iAe34lvcj5wpa8NKtpyc2H
-bkv3HYwU
-=414R
+iQGzBAEBCAAdFiEE86Q+UatzrVgK3kNjTYSxa6iLyb0FAmqXrjkACgkQTYSxa6iL
+yb0npQv+JSEmFnayqt0jAbNFDnTjkZvuf3HxZIxKBRyeRIGEntNrokKnPjn+C5k8
+ajazNL3LfrpiggDJ7Wv1jX6sM4XoFGEc3RC+QE5DtkxEz6Z5U225p6ZoxfeFYXYK
+UC17t4zqPmTe/2yUGG7iFUASz3/uWLS+bSrmpStWW2pwmPUjzvtjRx1hL/dYtrXf
+lTJWbsG/7XSSER1vA1Yf1t3ReuW9ocmBZUeYV27O+QGSZ0E0b75IjtKvfHCJhj6F
+7Aaf3zuGZkiPmiJE3pPLfQ5Vjl3BlelgyGpWZmjL0eBfn6Misj9lZJuyA4SIwpyr
+5tuVy4Ol1U2Uk3zwNraaJvW4xznjk7dY0om2Rg9GK8ehGNBfioQGv2t9vsExDFT1
+yVM3tiqiiFrKna+LQVhkh+ipTuh0De0Q64E1yCi0f+o2Bn9O4fGfGESY+VjNOOAe
+8Ocsy3997OZNQgZmxF5oZEhnY5vxcMxWAchrKTdeqgYA+MxsYDEdf8mrdU7iOrEJ
+Fs63LWTa
+=08Y0
 -----END PGP SIGNATURE-----
